@@ -1,6 +1,6 @@
 # react-json-translator
 
-Just a random quick project I made to speed up my bot's translation process (i18)
+Just a random quick project I made to speed up my bot's translation process (i18n)
 
 ## Installation
 
