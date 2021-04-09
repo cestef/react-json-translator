@@ -1,5 +1,0 @@
-{
-	"**Use `{{prefix}}help <category number>` to display its commands.**\n\n": "**Use `{{prefix}}help <category number>` to display its commands.**\n\n",
-	"**{{emoji}} Commands for the category `{{category}}`**\n\n{{{cmds}}}": "**{{emoji}} Commands for the category `{{category}}`**\n\n{{{cmds}}}",
-	"No description provided": "No description provided"
-}
